@@ -14,7 +14,9 @@
 # Результаты
 Тест 1
 ![Alt-текст](https://sun9-73.userapi.com/s/v1/if2/k5lUZjYNCQenulW2uwaec5eE34Bv20nq6N38676Zb1BNLpkz15avd8r9UMVP-jL7r69h-n7bbNURnKneUZVyXEdx.jpg?quality=95&as=32x12,48x19,72x28,108x42,160x62,240x94,360x140,387x151&from=bu&cs=387x0)
+
 Тест 2
 ![Alt-текст](https://sun9-53.userapi.com/s/v1/if2/czK0ookyUEDlJKZ_-8Imi_COF4AxcDfxW79TpKUCV_GKKubafAJZ-0U0PumH7QBnGTfCg_KfLJ4UXCaUtS3GdxH4.jpg?quality=95&as=32x11,48x17,72x25,108x37,160x55,240x83,360x124,480x166,540x187,547x189&from=bu&cs=547x0)
+
 Тест 3
 ![Alt-текст](https://sun9-4.userapi.com/s/v1/if2/2eXmCm5rpl6g4e-L-ET3ganyc7eYdczILn0pvgk7HVX1CDojBAc6ygiVKdlKiK5zO251A4dESesQuEWKhsdNW19T.jpg?quality=95&as=32x8,48x12,72x18,108x27,160x40,240x60,360x91,480x121,508x128&from=bu&cs=508x0)
